@@ -16,7 +16,7 @@ I'm a passionate Full Stack Developer with expertise in building robust and scal
 - **DevOps**: Docker, Jenkins, Git/GitHub
 - **Architecture**: Design patterns, UML, microservices architecture
 
-## 💼 Professional Experience
+## 💼 Professional Experience (Internships)
 
 ### UIB - Societe Générale (2024-2025)
 Developed a multiplatform donation application with AI-powered fraud detection, sentiment analysis, and payment gateway integration.
@@ -37,7 +37,7 @@ Developed a management interface for router equipment data.
 - Selected projects for University Project Competitions (2021-2022, 2023-2024)
 - CCNA certified in Switching, Routing, and Wireless Essentials
 
-## 🔧 Technical Skills
+## 🔧 Technical Skills 
 
 ### 💻 Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
